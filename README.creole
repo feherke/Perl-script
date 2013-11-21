@@ -1,0 +1,11 @@
+= Perl Script
+
+[[http://perl.org/|Perl]] is a universal language. Sadly I am by far not as universal as Perl, so my scripts are simple.
+
+This repository contains a collection of scripts, each directory contains one script and the related files.
+
+Here are some scripts I wrote.
+
+* **AstroCal** - Generates an image with astrological calendar for a month.
+
+These scripts were intentionally kept short. For details see the [[http://feherke.github.io/perl/|Perl section of my site]].

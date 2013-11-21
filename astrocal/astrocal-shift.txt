@@ -1,0 +1,15 @@
+# AstroCal   version 0.0   january 2012   written by Feherke
+# graphical astrological calendar generator
+# daytime saving file
+
+# use ISO date format
+# %Y-%m-%d %H:%M:%S
+# use -, / or : surrounded with spaces to separate the two dates
+
+# note, the European rule is
+# last Sunday of March - last Sunday of October
+
+2009-03-29 02:00:00 - 2009-10-25 03:00:00
+2011-03-27 02:00:00 - 2011-10-30 03:00:00
+2012-03-25 02:00:00 - 2012-10-28 03:00:00
+2013-03-31 02:00:00 - 2013-10-27 03:00:00
